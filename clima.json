@@ -34,7 +34,7 @@
             },
             {
               "key": "today_dire",
-              "cssSelector": ""
+              "cssSelector": "dia.d1"
             },
             {
               "key": "today_icon",
