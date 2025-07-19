@@ -33,6 +33,10 @@
               "cssSelector": ".dia.d1 .veloc-day"
             },
             {
+              "key": "today_dire",
+              "cssSelector": ""
+            },
+            {
               "key": "today_icon",
               "cssSelector": ".flex-top img",
               "returnValue": "attribute",
